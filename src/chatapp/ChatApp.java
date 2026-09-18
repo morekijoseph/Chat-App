@@ -29,7 +29,7 @@ public class ChatApp {
        System.out.print("please enter firstName:");
        firstName = scn.nextLine();
        
-       System.out.print("please enter lastName:");
+       System.out.print("please enter lastNa:");
        lastName = scn.nextLine();
        
        System.out.print("Enter your username:");
